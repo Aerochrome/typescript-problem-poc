@@ -1,4 +1,4 @@
-import { MainController } from "src/controller/MainController";
+import { MainController } from "@controller/MainController";
 
 export class ApiController
 {

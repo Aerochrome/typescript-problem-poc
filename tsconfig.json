@@ -20,6 +20,9 @@
           "node_modules/@types"
       ],
       "sourceMap": false,
-      "baseUrl": "./",
+      "baseUrl": "./src",
+      "paths": {
+        "@controller/*": ["controller/*"]
+      }
     }
   }
